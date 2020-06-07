@@ -24,7 +24,7 @@ This dataset includes all valid felony, misdemeanor, and violation crimes report
 | VIC_SEX | Victim’s Sex Description |
 | CMPLNT_FR_DT_YEAR | Year of the occurrence for the reported event |
 
-My drop additional unused columns to save on space.
+May drop additional unused columns to save on space.
 
 Keep writing more stuff here!
 
