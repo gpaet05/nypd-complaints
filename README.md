@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This dataset includes all valid felony, misdemeanor, and violation crimes reported to the New York City Police Department (NYPD) in 2018. The goal of my analysis is to xyz.
+This dataset includes all valid felony, misdemeanor, and violation crimes reported to the New York City Police Department (NYPD) in 2018. Each row in the dataset is represents 1 complaint. The goal of my analysis is to discover if there are any trends in activity: focusing on time (seasonal and hourly), borough population, and victim and suspect makeup.
 
 ## Data Dictionary
 
@@ -24,14 +24,11 @@ This dataset includes all valid felony, misdemeanor, and violation crimes report
 | VIC_SEX | Victim’s Sex Description |
 | CMPLNT_FR_DT_YEAR | Year of the occurrence for the reported event |
 
-May drop additional unused columns to save on space.
-
-Keep writing more stuff here!
+In the interest of file size space, I dropped 20+ columns from the [original dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i) and limited the records to the year 2018. The full dataset includes records from 2006 to 2017.
 
 ## Important Links
 
 * [Final Report Notebook](report.ipynb)
 * [EDA Notebook](eda.ipynb)
-* [Link 1](http://www.google.com) - Some cool stuff
-* [Link 2](http://www.google.com) - More cool stuff
-* [Link 3](http://www.google.com) - Even more cool stuff
+* [NYC Open Data](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i) - Source data
+* [NYPD](https://www1.nyc.gov/site/nypd/index.page) - Official website of the NYPD
