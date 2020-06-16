@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This dataset includes all valid felony, misdemeanor, and violation crimes reported to the New York City Police Department (NYPD) in 2018. Each row in the dataset is represents 1 complaint. The goal of my analysis is to discover if there are any trends in activity: focusing on time (seasonal and hourly), borough population, and victim and suspect makeup.
+This dataset includes all valid felony, misdemeanor, and violation crimes reported to the New York City Police Department (NYPD) in 2018. Each row in the dataset represents 1 complaint/crime. The goal of my analysis is to discover if there are any trends in criminal activity: focusing on time (seasonal and hourly), borough population, and victim and suspect makeup.
 
 ## Data Dictionary
 
