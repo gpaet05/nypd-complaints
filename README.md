@@ -24,7 +24,7 @@ This dataset includes all valid felony, misdemeanor, and violation crimes report
 | VIC_SEX | Victim’s Sex Description |
 | CMPLNT_FR_DT_YEAR | Year of the occurrence for the reported event |
 
-In the interest of file size space, I dropped 20+ columns from the [original dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i) and limited the records to the year 2018. The full dataset includes records from 2006 to 2017.
+In the interest of file size space, I dropped 20+ columns from the [original dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i) and limited the records to the year 2018. The full dataset includes records from 2006 to 2019.
 
 ## Important Links
 
